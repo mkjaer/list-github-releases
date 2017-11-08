@@ -2,6 +2,8 @@
 
 List latest github releases through a webserver
 
+Example: `curl https://releases.kjr.dk`
+
 ## Configuration
 
 Edit the repos.txt file with the repositories you want to list in the format mkjaer/list-github-releases
