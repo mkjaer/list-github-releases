@@ -1,0 +1,8 @@
+google/cadvisor
+docker/compose
+docker/docker-ce
+grafana/grafana
+prometheus/prometheus
+RocketChat/Rocket.Chat
+RocketChat/Rocket.Chat.Electron
+facebook/zstd
