@@ -1,6 +1,6 @@
 # list-github-releases
 
-List latest github releases through a webserver
+List latest github releases through a webserver and update them hourly
 
 Example: `curl https://releases.kjr.dk`
 
