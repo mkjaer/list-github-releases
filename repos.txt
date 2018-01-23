@@ -2,7 +2,10 @@ google/cadvisor
 docker/compose
 docker/docker-ce
 grafana/grafana
+prometheus/alertmanager
+prometheus/node_exporter
 prometheus/prometheus
 RocketChat/Rocket.Chat
 RocketChat/Rocket.Chat.Electron
+goofball222/unifi
 facebook/zstd
