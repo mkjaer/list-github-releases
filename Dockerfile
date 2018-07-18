@@ -1,4 +1,4 @@
-FROM alpine:3.7
+FROM alpine:3.8
 
 RUN apk --no-cache add nginx curl jq bash coreutils && \
     mkdir -p /run/nginx /www
